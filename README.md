@@ -1,6 +1,6 @@
-# PowerShell Security Scripts
+# PowerShell Security Scripts 🪟
 
-PowerShell offensive security scripts repository. 🪟 
+PowerShell offensive security scripts repository. 
 
 I'm in love with some really interesting books about PowerShell scripting, I strongly recommend you to give them a check ;)
 
