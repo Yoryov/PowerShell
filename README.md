@@ -8,5 +8,3 @@ I'm in love with some really interesting books about PowerShell scripting, I hig
 - [Learn PowerShell in a Month of Lunches by Travis Plunk, James Petty, Tyler Leonhardt, Don Jones, Jeffery Hicks](https://www.amazon.com/Learn-PowerShell-Month-Lunches-Windows/dp/1617296961)
 - [PowerShell for Sysadmins by Adam Bertram](https://www.amazon.com/Automate-Boring-Stuff-PowerShell-Sysadmins/dp/1593279183)
 
-Also check this YouTube videos
-
